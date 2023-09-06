@@ -38,12 +38,12 @@ While building the React Weather Application, several challenges were encountere
 Before you begin, ensure you have the following:
 Node.js and npm installed on your local machine.
 
-### Installation
+## Installation
 
 Follow these steps to install and run the React Weather Application:
 
 1. Clone the repository to your local machine:
-   `git clone https://github.com/yourusername/react-weather-app.git`
+   `git clone https://github.com/AliJavadi1997/react-weather-app.git`
 2. Navigate to the project directory:
    `cd react-weather-app`
 3. Install the project dependencies:
